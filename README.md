@@ -1,8 +1,6 @@
 # GAPNet:Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud
 created by Can Chen, Luca Zanotti Fragonara, Antonios Tsourdos from Cranfield University
 
-[[Paper]](https://arxiv.org/abs/1905.08705)
-
 # Overview
 We propose a graph attention based point neural network, named GAPNet, to learn shape representations for point cloud. Experiments show state-of-the-art performance in shape classification and semantic part segmentation tasks.
 
