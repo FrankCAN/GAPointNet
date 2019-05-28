@@ -32,8 +32,8 @@ python test.py --model_path train_results/trained_models/epoch_130.ckpt
 ```
 
 # Citation
+Please cite this paper if you want to use it in your work.
 
-Please cite this paper if you want to use it in your work,
 @article{chen2019gapnet,
   title={GAPNet: Graph Attention based Point Neural Network for Exploiting Local Feature of Point Cloud},
   author={Chen, Can and Fragonara, Luca Zanotti and Tsourdos, Antonios},
