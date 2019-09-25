@@ -166,5 +166,5 @@ def eval_one_epoch(sess, ops, num_votes=1, topk=1):
 
 if __name__=='__main__':
     with tf.Graph().as_default():
-        evaluate(num_votes=12)
+        evaluate(num_votes=1)
     LOG_FOUT.close()
